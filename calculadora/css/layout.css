@@ -145,9 +145,6 @@ span.fab {
     width: 30%;
   }
 
-  .body {
-    background-color: white;
-  }
   .content-top-layout.alt-top-layout > .buttons-wrapper {
     order: 1;
   }

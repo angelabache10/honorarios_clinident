@@ -65,24 +65,31 @@ main {
   background-color: #e5e5e5;
   border-radius: 35px;
   display: flex;
-  justify-content: start;
-  align-items: end;
-  flex-direction: column;
-  gap: 30px;
+  justify-content: center;
+  align-items: center;
+  gap: 80px;
   padding: 20px;
+}
+
+#h1-titulo {
+  text-align: center;
 }
 
 #titulo {
   width: 100%;
   display: flex;
+  background-color: whitesmoke;
   font-family: "Montserrat";
+  padding: 20px;
 }
 
 #titulo-tratamientos {
   width: 100%;
   display: flex;
   justify-content: center;
+  padding-right: 470px;
   font-family: "Montserrat";
+  background-color: whitesmoke;
 }
 
 .campos {
